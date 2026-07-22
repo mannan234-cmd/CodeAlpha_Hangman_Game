@@ -25,14 +25,15 @@ The game randomly selects a word from a predefined list of five words. The playe
 
 
 
-# Project Structure
+##  Project Structure
 
-
+```text
 CodeAlpha_Hangman_Game/
 │
 ├── main.py
 ├── words.py
 └── README.md
+```
 
 
 
